@@ -1,0 +1,17 @@
+C:\Users\Iñaki\source\repos\Calendario\Calendario\bin\Debug\netcoreapp3.0\Calendario.exe
+C:\Users\Iñaki\source\repos\Calendario\Calendario\bin\Debug\netcoreapp3.0\Calendario.deps.json
+C:\Users\Iñaki\source\repos\Calendario\Calendario\bin\Debug\netcoreapp3.0\Calendario.runtimeconfig.json
+C:\Users\Iñaki\source\repos\Calendario\Calendario\bin\Debug\netcoreapp3.0\Calendario.runtimeconfig.dev.json
+C:\Users\Iñaki\source\repos\Calendario\Calendario\bin\Debug\netcoreapp3.0\Calendario.dll
+C:\Users\Iñaki\source\repos\Calendario\Calendario\bin\Debug\netcoreapp3.0\Calendario.pdb
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario_MarkupCompile.cache
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario_MarkupCompile.lref
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario.g.resources
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario.AssemblyInfoInputs.cache
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario.AssemblyInfo.cs
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario.dll
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario.pdb
+C:\Users\Iñaki\source\repos\Calendario\Calendario\obj\Debug\netcoreapp3.0\Calendario.csprojAssemblyReference.cache
